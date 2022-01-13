@@ -36,7 +36,7 @@
 
 | _,.-'``'-.,_,.'`` Step 1 ``'.,_,.-'``'-.,_|Screenshot|
 | -------------------------------------------------------------- |- |
-This app will translate _**German**_ texts simultaneously on **tencent**, **bing**, **argos**,**iciba**, **google**, **yeekit** and **deepl**!<br> Choose any txt/doc/pdf file that you want to translate.|<img src="50_800x800.png" width="400"/> |
+This app translates _**German**_ texts simultaneously on **tencent**, **bing**, **argos**,**iciba**, **google**, **yeekit** and **deepl**!<br> Choose any txt/doc/pdf file that you want to translate.|<img src="50_800x800.png" width="400"/> |
 
 | _,.-'``'-.,_,.'`` Step 2 ``'.,_,.-'``'-.,_|Screenshot|
 | -------------------------------------------------------------- |- |
